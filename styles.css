@@ -1,11 +1,26 @@
+   body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
 
-.eg2 {
-  padding:10px;
-  background-color: white;
-  margin:10px;
-}
+        .testimonial-section {
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
 
-.eg3 {
-  text-align: right;
-  font-style: italic;
-}
+        .testimonial {
+            background-color: white;
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+
+        .testimonial p {
+            margin: 0;
+        }
+
+        .author {
+            text-align: right;
+            font-style: italic;
+            margin-top: 10px;
+        }
